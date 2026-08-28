@@ -54,8 +54,7 @@ This dashboard transforms raw e-commerce data into meaningful business insights,
 ## 📂 Files [Ecommerce_Sales_Analytics_Report_v2.docx](https://github.com/user-attachments/files/30351322/Ecommerce_Sales_Analytics_Report_v2.docx)
 Included
 
-## 👨‍💻 Author
+## 👨‍💻 Author:**Dhruv Choudhary**
 
-**Dhruv Choudhary**
 
 ⭐ If you found this project useful, consider giving it a star!
